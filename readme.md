@@ -58,4 +58,4 @@ The Indian startup ecosystem is a vibrant and influential force in the global ma
 `Data Analyst`
 
 `Azubi Africa`
-Read more on
+Read more on my medium blog: https://medium.com/@priscillahmusyoka128/eda-for-indian-startups-ecosystem-from-2018-to-2021-a-visualization-approach-of-the-top-startups-1f6bbf241834
